@@ -1,0 +1,15 @@
+C:\Users\ngkai\.vscode\sdp-source-code\a1\bin\Debug\net8.0\a1.exe
+C:\Users\ngkai\.vscode\sdp-source-code\a1\bin\Debug\net8.0\a1.deps.json
+C:\Users\ngkai\.vscode\sdp-source-code\a1\bin\Debug\net8.0\a1.runtimeconfig.json
+C:\Users\ngkai\.vscode\sdp-source-code\a1\bin\Debug\net8.0\a1.dll
+C:\Users\ngkai\.vscode\sdp-source-code\a1\bin\Debug\net8.0\a1.pdb
+C:\Users\ngkai\.vscode\sdp-source-code\a1\obj\Debug\net8.0\a1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngkai\.vscode\sdp-source-code\a1\obj\Debug\net8.0\a1.AssemblyInfoInputs.cache
+C:\Users\ngkai\.vscode\sdp-source-code\a1\obj\Debug\net8.0\a1.AssemblyInfo.cs
+C:\Users\ngkai\.vscode\sdp-source-code\a1\obj\Debug\net8.0\a1.csproj.CoreCompileInputs.cache
+C:\Users\ngkai\.vscode\sdp-source-code\a1\obj\Debug\net8.0\a1.sourcelink.json
+C:\Users\ngkai\.vscode\sdp-source-code\a1\obj\Debug\net8.0\a1.dll
+C:\Users\ngkai\.vscode\sdp-source-code\a1\obj\Debug\net8.0\refint\a1.dll
+C:\Users\ngkai\.vscode\sdp-source-code\a1\obj\Debug\net8.0\a1.pdb
+C:\Users\ngkai\.vscode\sdp-source-code\a1\obj\Debug\net8.0\a1.genruntimeconfig.cache
+C:\Users\ngkai\.vscode\sdp-source-code\a1\obj\Debug\net8.0\ref\a1.dll
