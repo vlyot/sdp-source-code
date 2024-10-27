@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5lHcV9yG6xXwbfXNu7ICmQWTFouiOmZolrkKCA4+NiYGmgT4CK89l7FcQOam/V7cjlHBBNmcQJjfXgQYodgmHQ==",
+  "dgSpecHash": "SmDG41IiZ1vcgDGczPF9lEaihiAPQnjqldrt9SUuX5bIvZZP7GQ5xIsMptE4jmcigSBKV1zah/yIdY29DExTOQ==",
   "success": true,
-  "projectFilePath": "c:\\VSC\\sdp-source-code\\a1\\a1.csproj",
+  "projectFilePath": "C:\\VSC\\sdp-source-code\\a1\\a1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
