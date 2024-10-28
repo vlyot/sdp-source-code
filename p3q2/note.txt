@@ -1,0 +1,6 @@
+States are different physical/virtual states that a class object may be in during program runtime or as the user runs the program. 
+By implementing an object using states, it is easier to create and change code according to the state of an object during program runtime,
+and it is less likely that code will collide with each other when code in a state is changed.
+
+Strategies follow the principle of encapsulate everything that changes, by adding interfaces. Interfaces will implmenemt all functions
+that varies between the states, and each state will implement their own version
