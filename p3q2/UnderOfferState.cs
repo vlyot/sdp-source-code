@@ -1,17 +1,17 @@
-public class OnMarketState : PropertyState {
+public class UnderOfferState : PropertyState {
     private Property property;
 
-    public OnMarketState(Property property) {
+    public UnderOfferState(Property property) {
         this.property = property;
     }
 
     public void Offer(Buyer buyer) {
-        Console.WriteLine("Offer made.");
-        property.SetState(new UnderOfferState(property));
+        Console.WriteLine("Offer already made.");
     }
 
     public void BuyerPullout() {
-        Console.WriteLine("No buyer to pull out.");
+        Console.WriteLine("Buyer pulls out.");
+        property.SetState(new OnMarketState(property));
     }
 
     public void VendorPullout() {
@@ -21,10 +21,11 @@ public class OnMarketState : PropertyState {
     }
 
     public void SignContract(Buyer buyer) {
-        Console.WriteLine("No buyer to sign contract.");
+        Console.WriteLine("Buyer signs contract.");
+        property.SetState(new ContractedState(property));
     }
 
     public void PayPrice() {
-        Console.WriteLine("Cannot pay price without an offer.");
+        Console.WriteLine("Cannot pay price before contract is signed.");
     }
 }
